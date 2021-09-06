@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Thapelo-git/newreact1.github.io/static/css/main.3cb1b5e3.chunk.css",
+    "main.js": "/Thapelo-git/newreact1.github.io/static/js/main.65d4822d.chunk.js",
+    "main.js.map": "/Thapelo-git/newreact1.github.io/static/js/main.65d4822d.chunk.js.map",
+    "runtime-main.js": "/Thapelo-git/newreact1.github.io/static/js/runtime-main.76de58f1.js",
+    "runtime-main.js.map": "/Thapelo-git/newreact1.github.io/static/js/runtime-main.76de58f1.js.map",
+    "static/js/2.95fcf5f9.chunk.js": "/Thapelo-git/newreact1.github.io/static/js/2.95fcf5f9.chunk.js",
+    "static/js/2.95fcf5f9.chunk.js.map": "/Thapelo-git/newreact1.github.io/static/js/2.95fcf5f9.chunk.js.map",
+    "static/js/3.abf5d68f.chunk.js": "/Thapelo-git/newreact1.github.io/static/js/3.abf5d68f.chunk.js",
+    "static/js/3.abf5d68f.chunk.js.map": "/Thapelo-git/newreact1.github.io/static/js/3.abf5d68f.chunk.js.map",
+    "index.html": "/Thapelo-git/newreact1.github.io/index.html",
+    "static/css/main.3cb1b5e3.chunk.css.map": "/Thapelo-git/newreact1.github.io/static/css/main.3cb1b5e3.chunk.css.map",
+    "static/js/2.95fcf5f9.chunk.js.LICENSE.txt": "/Thapelo-git/newreact1.github.io/static/js/2.95fcf5f9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Thapelo-git/newreact1.github.io/static/media/logo.6ce24c58.svg",
+    "static/media/Stylling.css": "/Thapelo-git/newreact1.github.io/static/media/wallpic.77736267.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76de58f1.js",
+    "static/js/2.95fcf5f9.chunk.js",
+    "static/css/main.3cb1b5e3.chunk.css",
+    "static/js/main.65d4822d.chunk.js"
+  ]
+}
